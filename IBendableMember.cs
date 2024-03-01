@@ -25,7 +25,7 @@ SOFTWARE.
 using System;
 using System.Linq;
 
-namespace Temp_MirrorExpolrer
+namespace MemberBender
 {
 	public interface IBendableMember : IComparable<IBendableMember>
 	{
